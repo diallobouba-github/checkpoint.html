@@ -1,0 +1,17 @@
+.enfant1{
+    background-color: red;
+    height: 8em;
+    width: 38em;
+}
+.enfant2{
+    background-color:blue;
+    height:8em;
+    width:38em;
+}
+.parent{
+    background-color: aqua;
+    display:flex;
+    justify-content:space-evenly;
+    margin top 4em;
+    gap:2em;
+}
